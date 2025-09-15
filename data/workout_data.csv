@@ -1,4 +1,406 @@
 "title","start_time","end_time","description","exercise_title","superset_id","exercise_notes","set_index","set_type","weight_lbs","reps","distance_miles","duration_seconds","rpe"
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Single Leg Press (Machine)",0,"egym lowkey feel lighter",0,"normal",50,8,,,8.5
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Single Leg Press (Machine)",0,"egym lowkey feel lighter",1,"normal",80,4,,,10
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Leg Press Horizontal (Machine)",0,"egym",0,"normal",200,8,,,8
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Leg Press Horizontal (Machine)",0,"egym",1,"normal",250,8,,,9
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Seated Leg Curl (Machine)",,"",0,"warmup",50,8,,,6
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Seated Leg Curl (Machine)",,"",1,"normal",75,8,,,9
+"Legs","2 Sep 2025, 21:53","2 Sep 2025, 22:40","it was hella busy so we gave up like a nafis workout","Seated Leg Curl (Machine)",,"",2,"normal",75,10,,,10
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Spinning",,"",0,"normal",,,,311,
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Single Leg Press (Machine)",0,"",0,"normal",20,12,,,8
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Single Leg Press (Machine)",0,"",1,"normal",40,8,,,9.5
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Leg Press Horizontal (Machine)",0,"",0,"normal",160,12,,,8
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Leg Press Horizontal (Machine)",0,"",1,"normal",180,18,,,9.5
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Lying Leg Curl (Machine)",,"why the seated one broken still and why this machine only in kg\n\nmaybe its time to switch fully to metric system",0,"normal",66,8,,,7.5
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Lying Leg Curl (Machine)",,"why the seated one broken still and why this machine only in kg\n\nmaybe its time to switch fully to metric system",1,"normal",71,15,,,10
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Leg Extension (Machine)",1,"bsjaiznxususiwiwjwnd",0,"normal",50,8,,,8.5
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Leg Extension (Machine)",1,"bsjaiznxususiwiwjwnd",1,"normal",55,10,,,10
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Single Leg Extensions",1,"",0,"normal",80,7,,,9
+"Legs","31 Aug 2025, 17:40","31 Aug 2025, 18:33","been lacking on pt maybe time to hit legs every other day like woman","Single Leg Extensions",1,"",1,"normal",80,10,,,10
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Spinning",,"",0,"normal",,,,300,
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Chin Up",,"",0,"normal",,12,,,8.5
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Chin Up",,"",1,"normal",,8,,,9.5
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Preacher Curl (Barbell)",,"",0,"warmup",30,12,,,6
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Preacher Curl (Barbell)",,"",1,"normal",50,8,,,8.5
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Preacher Curl (Barbell)",,"",2,"normal",50,11,,,10
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Triceps Extension (Cable)",,"bro this is impossible to pull out gotta put the pole between my cheeks",0,"normal",50,8,,,8
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Triceps Extension (Cable)",,"bro this is impossible to pull out gotta put the pole between my cheeks",1,"normal",55,8,,,10
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Single Arm Lateral Raise (Cable)",,"+3 partials on 2nd",0,"normal",30,7,,,9.5
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Single Arm Lateral Raise (Cable)",,"+3 partials on 2nd",1,"normal",30,7,,,10
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Hammer Curl (Cable)",,"",0,"normal",55,6,,,9
+"Arms","28 Aug 2025, 12:42","28 Aug 2025, 13:30","i dont know why im here i should be home","Hammer Curl (Cable)",,"",1,"normal",55,5,,,10
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Incline Bench Press (Dumbbell)",,"nafisisgay123",0,"warmup",60,10,,,8
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Incline Bench Press (Dumbbell)",,"nafisisgay123",1,"warmup",70,7,,,8.5
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Incline Bench Press (Dumbbell)",,"nafisisgay123",2,"normal",100,8,,,8.5
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Incline Bench Press (Dumbbell)",,"nafisisgay123",3,"normal",105,4,,,10
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Incline Bench Press (Dumbbell)",,"nafisisgay123",4,"normal",100,6,,,10
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Chest Fly (Machine)",,"",0,"normal",75,12,,,8
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Chest Fly (Machine)",,"",1,"normal",90,11,,,10
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Bent Over Row (Barbell)",,"",0,"normal",110,8,,,9
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Bent Over Row (Barbell)",,"",1,"normal",132,5,,,10
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Lat Pulldown - Close Grip (Cable)",,"",0,"normal",120,8,,,8.5
+"UPPER DAY 1 JEFF NIPPLE SPLIT","25 Aug 2025, 19:19","25 Aug 2025, 20:33","","Lat Pulldown - Close Grip (Cable)",,"",1,"normal",130,6,,,10
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Spinning",,"",0,"normal",,,,300,
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Single Leg Press (Machine)",0,"what is this goofy ahh leg press at crunch the platform for my feet moving and its way easier\n\nimma say its half as heavy",0,"normal",20,12,,,8.5
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Single Leg Press (Machine)",0,"what is this goofy ahh leg press at crunch the platform for my feet moving and its way easier\n\nimma say its half as heavy",1,"normal",30,9,,,10
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Leg Press Horizontal (Machine)",0,"",0,"normal",90,12,,,8.5
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Leg Press Horizontal (Machine)",0,"",1,"normal",120,12,,,9.5
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Lying Leg Curl (Machine)",,"gotta do seated ones next time this terrible",0,"normal",50,12,,,9
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Lying Leg Curl (Machine)",,"gotta do seated ones next time this terrible",1,"normal",70,8,,,10
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Leg Extension (Machine)",1,"el guesaso this mad painful",0,"normal",30,5,,,9.5
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Leg Extension (Machine)",1,"el guesaso this mad painful",1,"normal",30,10,,,10
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Single Leg Extensions",1,"left leg only my right would die",0,"normal",50,12,,,8.5
+"Legs","22 Aug 2025, 16:17","22 Aug 2025, 16:49","only went to get my student discount tbh","Single Leg Extensions",1,"left leg only my right would die",1,"normal",70,7,,,10
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Pull Up",,"",0,"normal",,10,,,9
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Pull Up",,"",1,"normal",,7,,,10
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Lat Pulldown - Close Grip (Cable)",,"",0,"normal",120,7,,,8.5
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Lat Pulldown - Close Grip (Cable)",,"",1,"normal",120,7,,,9.5
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Bench Press (Barbell)",,"",0,"warmup",45,12,,,6
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Bench Press (Barbell)",,"",1,"normal",135,4,,,9.5
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Bench Press (Barbell)",,"",2,"failure",135,3,,,10
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Cable Fly Crossovers",0,"",0,"normal",60,6,,,9
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Cable Fly Crossovers",0,"",1,"normal",60,8,,,10
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Rear Delt Reverse Fly (Cable)",0,"",0,"normal",25,6,,,9.5
+"Chest/Back","19 Aug 2025, 18:11","19 Aug 2025, 18:55","barbells con mi barber","Rear Delt Reverse Fly (Cable)",0,"",1,"normal",25,4,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Chin Up",,"",0,"normal",,12,,,9.5
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Chin Up",,"",1,"normal",,7,,,9.5
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,6
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Preacher Curl (Barbell)",,"",1,"failure",70,0,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Preacher Curl (Barbell)",,"",2,"normal",60,6,,,9.5
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Preacher Curl (Barbell)",,"",3,"normal",60,4,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Triceps Extension (Cable)",,"",0,"normal",49.5,8,,,8.5
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Triceps Extension (Cable)",,"",1,"normal",55,7,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Single Arm Lateral Raise (Cable)",,"bro 33 is so hard no wonder alonso cant do it",0,"normal",22,12,,,9
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Single Arm Lateral Raise (Cable)",,"bro 33 is so hard no wonder alonso cant do it",1,"normal",33,4,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Hammer Curl (Cable)",,"",0,"normal",44,8,,,8
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Hammer Curl (Cable)",,"",1,"normal",55,6,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Triceps Kickback (Cable)",,"",0,"normal",55,4,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Triceps Kickback (Cable)",,"",1,"normal",44,9,,,9.5
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Bayesian Curl",,"",0,"normal",46,8,,,9
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Bayesian Curl",,"",1,"normal",46,10,,,10
+"early bird gets the milkshake","16 Aug 2025, 14:25","16 Aug 2025, 15:47","pre milkshake arms workout with nasar","Lateral Raise (Dumbbell)",,"",0,"normal",35,8,,,9.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Incline Bench Press (Barbell)",,"",0,"warmup",45,12,,,6
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Incline Bench Press (Barbell)",,"",1,"normal",95,12,,,9
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Incline Bench Press (Barbell)",,"",2,"normal",105,9,,,10
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Decline Bench Press (Machine)",,"roman told me to do 4-8 rep range",0,"normal",96,12,,,9
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Decline Bench Press (Machine)",,"roman told me to do 4-8 rep range",1,"normal",146,7,,,10
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Butterfly (Pec Deck)",,"la fitness machine",0,"normal",115,7,,,9.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Butterfly (Pec Deck)",,"la fitness machine",1,"normal",115,6,,,10
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Preacher Curl (Machine)",,"",0,"failure",84,3,,,9.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Preacher Curl (Machine)",,"",1,"dropset",74,3,,,9.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Preacher Curl (Machine)",,"",2,"normal",74,6,,,10
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Shoulder Press (Machine Plates)",,"",0,"normal",100,8,,,8.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Shoulder Press (Machine Plates)",,"",1,"normal",120,4,,,10
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Hammer Curl (Cable)",,"bro they got gray lebrons here",0,"normal",47.5,10,,,9
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Hammer Curl (Cable)",,"bro they got gray lebrons here",1,"normal",52.5,7,,,10
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Single Arm Lateral Raise (Cable)",,"",0,"normal",30,8,,,8.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Single Arm Lateral Raise (Cable)",,"",1,"normal",30,7,,,9.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Bayesian Curl",,"",0,"normal",45,8,,,9.5
+"chest/shoulder/biceps with roman","11 Aug 2025, 15:10","11 Aug 2025, 16:29","","Bayesian Curl",,"",1,"normal",45,5,,,9.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Chin Up",,"",0,"normal",,12,,,9
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Chin Up",,"",1,"normal",,8,,,10
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,6
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Preacher Curl (Barbell)",,"",1,"normal",60,5,,,9.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Preacher Curl (Barbell)",,"",2,"normal",60,8,,,10
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Triceps Extension (Cable)",,"",0,"normal",49.5,12,,,9
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Triceps Extension (Cable)",,"",1,"normal",49.5,12,,,10
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Single Arm Lateral Raise (Cable)",,"+ 3 partials",0,"normal",22,12,,,8.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Single Arm Lateral Raise (Cable)",,"+ 3 partials",1,"normal",22,13,,,10
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Hammer Curl (Cable)",,"lebron balls feeling different maybe he sweaty",0,"normal",38.5,12,,,8
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Hammer Curl (Cable)",,"lebron balls feeling different maybe he sweaty",1,"normal",38.5,13,,,10
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Bayesian Curl",,"",0,"normal",40,9,,,9.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Bayesian Curl",,"",1,"normal",40,10,,,10
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Triceps Kickback (Cable)",,"",0,"normal",46,11,,,9.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Triceps Kickback (Cable)",,"",1,"normal",46,10,,,9.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Lateral Raise (Dumbbell)",,"",0,"normal",30,11,,,9.5
+"Arms","7 Aug 2025, 15:04","7 Aug 2025, 16:36","nipple nafis","Lateral Raise (Dumbbell)",,"",1,"normal",30,9,,,10
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Pull Up",,"new max reps",0,"normal",,12,,,9.5
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Pull Up",,"new max reps",1,"normal",,8,,,10
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Incline Bench Press (Dumbbell)",,"new max weight // #forsayhan",0,"warmup",50,12,,,6
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Incline Bench Press (Dumbbell)",,"new max weight // #forsayhan",1,"normal",90,11,,,9
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Incline Bench Press (Dumbbell)",,"new max weight // #forsayhan",2,"normal",90,8,,,10
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","T Bar Row",,"new max weight // im messing with the george russell bar rows",0,"warmup",40,12,,,6
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","T Bar Row",,"new max weight // im messing with the george russell bar rows",1,"normal",110,12,,,9
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","T Bar Row",,"new max weight // im messing with the george russell bar rows",2,"normal",110,13,,,10
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Butterfly (Pec Deck)",0,"only two machines and 17 men trying to use them bro // lighter than regular cables and other pec decks",0,"normal",85,12,,,8.5
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Butterfly (Pec Deck)",0,"only two machines and 17 men trying to use them bro // lighter than regular cables and other pec decks",1,"normal",85,8,,,10
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Rear Delt Reverse Fly (Machine)",0,"bro why is this machine deadahh so light",0,"normal",55,12,,,7.5
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Rear Delt Reverse Fly (Machine)",0,"bro why is this machine deadahh so light",1,"normal",70,12,,,10
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Lat Pulldown - Close Grip (Cable)",,"closely gripping nafis cheeks",0,"normal",110,12,,,9.5
+"Chest/Back","4 Aug 2025, 20:17","4 Aug 2025, 21:44","chest with the chowdhury","Lat Pulldown - Close Grip (Cable)",,"closely gripping nafis cheeks",1,"normal",110,9,,,10
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Lunge",,"damn ts got hands it feels like i dont have knees",0,"normal",,3,,,8
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Romanian Deadlift (Dumbbell)",,"decided to start lifting mid lecture so i dont doomscroll i think i have adhd\n\nbro this mad easy might as well tone the muscle at this point",0,"normal",50,12,,,6
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Romanian Deadlift (Dumbbell)",,"decided to start lifting mid lecture so i dont doomscroll i think i have adhd\n\nbro this mad easy might as well tone the muscle at this point",1,"normal",50,12,,,6
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Lunge (Dumbbell)",,"cant go to full depth man i hate combinatorics",0,"normal",50,3,,,9
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Lunge (Dumbbell)",,"cant go to full depth man i hate combinatorics",1,"normal",50,3,,,9.5
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Standing Calf Raise (Dumbbell)",,"right favored toning the muscle",0,"normal",50,12,,,6
+"at home legs","3 Aug 2025, 14:39","3 Aug 2025, 15:14","mid lecture lift #kabob","Standing Calf Raise (Dumbbell)",,"right favored toning the muscle",1,"normal",50,25,,,9
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Spinning",,"",0,"normal",,,,300,
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Chin Up",,"",0,"normal",,10,,,8.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Chin Up",,"",1,"normal",,7,,,8.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,6
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Preacher Curl (Barbell)",,"",1,"normal",40,12,,,9
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Preacher Curl (Barbell)",,"",2,"failure",40,9,,,10
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Triceps Extension (Cable)",,"",0,"normal",45,12,,,8.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Triceps Extension (Cable)",,"",1,"normal",45,13,,,10
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Single Arm Lateral Raise (Cable)",,"plus 2 partials",0,"normal",25,12,,,9
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Single Arm Lateral Raise (Cable)",,"plus 2 partials",1,"normal",25,11,,,10
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Hammer Curl (Cable)",,"thinking about lebron again missing the veiny ahh lebron from eos",0,"normal",37.5,12,,,8.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Hammer Curl (Cable)",,"thinking about lebron again missing the veiny ahh lebron from eos",1,"normal",37.5,12,,,9.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Bayesian Curl",,"",0,"normal",35,12,,,
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Bayesian Curl",,"",1,"normal",35,12,,,9.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Triceps Kickback (Cable)",,"",0,"normal",45,12,,,9.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Triceps Kickback (Cable)",,"",1,"normal",45,11,,,10
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Lateral Raise (Dumbbell)",,"",0,"normal",30,12,,,9.5
+"Arms","2 Aug 2025, 15:38","2 Aug 2025, 17:08","nafis max sheehans min // turned the lights off and nafis disappeared","Lateral Raise (Dumbbell)",,"",1,"normal",30,7,,,10
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Pull Up",,"bro why my upper left back hurting",0,"normal",,8,,,9.5
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Pull Up",,"bro why my upper left back hurting",1,"normal",,5,,,8.5
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Bench Press (Barbell)",,"maxing again #fornafis",0,"normal",135,3,,,9.5
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Bench Press (Barbell)",,"maxing again #fornafis",1,"normal",150,1,,,9.5
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Bench Press (Barbell)",,"maxing again #fornafis",2,"failure",155,0,,,10
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Bench Press (Barbell)",,"maxing again #fornafis",3,"failure",155,0,,,10
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Lat Pulldown - Close Grip (Cable)",,"im gonna grip areebs up close",0,"normal",105,12,,,9
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Lat Pulldown - Close Grip (Cable)",,"im gonna grip areebs up close",1,"normal",105,11,,,10
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Cable Fly Crossovers",0,"",0,"normal",55,12,,,9.5
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Cable Fly Crossovers",0,"",1,"normal",55,8,,,10
+"Chest/Back","31 Jul 2025, 16:53","31 Jul 2025, 17:35","less exercise more goon ahh workout","Rear Delt Reverse Fly (Cable)",0,"",0,"normal",20,12,,,10
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Spinning",,"",0,"normal",,,,300,
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Chin Up",,"why they were so easy today what the heck",0,"normal",,10,,,8.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Chin Up",,"why they were so easy today what the heck",1,"normal",,10,,,9.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Preacher Curl (Barbell)",,"",0,"normal",40,10,,,9.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Preacher Curl (Barbell)",,"",1,"normal",40,8,,,10
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Triceps Extension (Cable)",,"",0,"normal",42.5,12,,,8
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Triceps Extension (Cable)",,"",1,"normal",42.5,14,,,10
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Single Arm Lateral Raise (Cable)",,"the colony cable gotta be lighter or something bro",0,"normal",25,12,,,9.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Single Arm Lateral Raise (Cable)",,"the colony cable gotta be lighter or something bro",1,"normal",25,10,,,9.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Hammer Curl (Cable)",,"thinking about lebron",0,"normal",37.5,12,,,9.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Hammer Curl (Cable)",,"thinking about lebron",1,"normal",37.5,12,,,10
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Bayesian Curl",,"the king was up and on the grind at 4:30am and i slept until noon what am i doing with my life",0,"normal",30,12,,,8.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Bayesian Curl",,"the king was up and on the grind at 4:30am and i slept until noon what am i doing with my life",1,"normal",30,14,,,9.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Triceps Kickback (Cable)",,"",0,"normal",40,10,,,8.5
+"Arms","30 Jul 2025, 15:06","30 Jul 2025, 16:13","","Triceps Kickback (Cable)",,"",1,"normal",40,13,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Spinning",,"",0,"normal",,,,180,
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Pull Up",,"",0,"normal",,8,,,8.5
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Pull Up",,"",1,"normal",,6,,,9.5
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Pull Up",,"",2,"normal",,3,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Incline Bench Press (Dumbbell)",,"why 80x12 not that bad",0,"warmup",50,12,,,6
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Incline Bench Press (Dumbbell)",,"why 80x12 not that bad",1,"normal",80,12,,,9
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Incline Bench Press (Dumbbell)",,"why 80x12 not that bad",2,"normal",80,12,,,9.5
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Bench Press (Barbell)",,"first time flat bench since december and first time going for 1rm in like 2 years 🛰️🩳\n\ni feel it in my legs more than my chest bro",0,"normal",135,1,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Bench Press (Barbell)",,"first time flat bench since december and first time going for 1rm in like 2 years 🛰️🩳\n\ni feel it in my legs more than my chest bro",1,"normal",145,1,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Lat Pulldown - Close Grip (Cable)",,"close grip been hella feeling nice bro",0,"normal",95,12,,,8.5
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Lat Pulldown - Close Grip (Cable)",,"close grip been hella feeling nice bro",1,"normal",110,11,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Cable Fly Crossovers",0,"",0,"normal",55,10,,,9.5
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Cable Fly Crossovers",0,"",1,"normal",55,10,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Rear Delt Reverse Fly (Cable)",0,"",0,"normal",20,10,,,10
+"Chest/Back","27 Jul 2025, 16:35","27 Jul 2025, 17:49","with areebs and tanzils","Rear Delt Reverse Fly (Cable)",0,"",1,"normal",20,9,,,10
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Chin Up",,"",0,"normal",,8,,,8.5
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Chin Up",,"",1,"normal",,7,,,9.5
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,6
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Preacher Curl (Barbell)",,"",1,"normal",40,10,,,9.5
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Preacher Curl (Barbell)",,"",2,"normal",40,8,,,10
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Triceps Extension (Cable)",,"",0,"normal",40,12,,,8
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Triceps Extension (Cable)",,"",1,"normal",40,14,,,10
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Single Arm Lateral Raise (Cable)",,"",0,"normal",20,12,,,8.5
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Single Arm Lateral Raise (Cable)",,"",1,"normal",20,14,,,10
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Hammer Curl (Dumbbell)",,"",0,"normal",40,12,,,8
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Hammer Curl (Dumbbell)",,"",1,"normal",40,16,,,10
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Lateral Raise (Dumbbell)",,"",0,"normal",30,10,,,10
+"areeb liton sharms chowdhury hasan","25 Jul 2025, 16:01","25 Jul 2025, 17:03","","Lateral Raise (Dumbbell)",,"",1,"normal",30,8,,,10
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Spinning",,"",0,"normal",,,,300,
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Pull Up",,"",0,"normal",,8,,,9.5
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Pull Up",,"",1,"normal",,6,,,9.5
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Shrug (Barbell)",,"",0,"normal",90,15,,,10
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Incline Bench Press (Dumbbell)",,"",0,"warmup",50,12,,,7
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Incline Bench Press (Dumbbell)",,"",1,"normal",70,12,,,8
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Incline Bench Press (Dumbbell)",,"",2,"normal",70,14,,,9.5
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Single Arm Cable Row",,"zeff nipple method",0,"normal",45,12,,,8.5
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Single Arm Cable Row",,"zeff nipple method",1,"normal",55,15,,,10
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Cable Fly Crossovers",0,"",0,"normal",50,12,,,8.5
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Cable Fly Crossovers",0,"",1,"normal",50,14,,,10
+"chesticles or back tickles?","24 Jul 2025, 14:57","24 Jul 2025, 16:04","","Rear Delt Reverse Fly (Cable)",0,"",0,"normal",20,10,,,10
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Single Leg Press (Machine)",0,"right reg day",0,"normal",15,12,,,8.5
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Single Leg Press (Machine)",0,"right reg day",1,"normal",20,12,,,9.5
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Single Leg Press (Machine)",0,"right reg day",2,"normal",20,10,,,10
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Leg Press Horizontal (Machine)",0,"",0,"normal",115,12,,,8
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Leg Press Horizontal (Machine)",0,"",1,"normal",160,10,,,9.5
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Leg Press Horizontal (Machine)",0,"",2,"normal",160,16,,,9.5
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Single Leg Extensions",,"right reg day (using cable machine)",0,"normal",2.5,12,,,8
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Single Leg Extensions",,"right reg day (using cable machine)",1,"normal",5,12,,,9
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Single Leg Extensions",,"right reg day (using cable machine)",2,"normal",5,14,,,9.5
+"Legs","20 Jul 2025, 18:37","20 Jul 2025, 19:38","right reg day with ethan","Standing Leg Curls",,"",0,"normal",25,12,,,8.5
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Pull Up",,"",0,"normal",,8,,,8.5
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Pull Up",,"",1,"normal",,8,,,10
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Incline Bench Press (Barbell)",,"",0,"warmup",45,12,,,6
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Incline Bench Press (Barbell)",,"",1,"normal",95,8,,,9
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Incline Bench Press (Barbell)",,"",2,"normal",95,7,,,10
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Lat Pulldown - Close Grip (Cable)",,"",0,"normal",99,12,,,9
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Lat Pulldown - Close Grip (Cable)",,"",1,"normal",99,11,,,10
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Iso-Lateral Chest Press (Machine)",,"",0,"normal",96,3,,,6
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Iso-Lateral Chest Press (Machine)",,"",1,"normal",146,3,,,10
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Iso-Lateral Chest Press (Machine)",,"",2,"normal",116,9,,,10
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Single Arm Cable Row",,"",0,"normal",56,12,,,8.5
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Single Arm Cable Row",,"",1,"normal",88,9,,,10
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Butterfly (Pec Deck)",,"",0,"normal",60,12,,,9
+"Chest/Back","19 Jul 2025, 21:22","19 Jul 2025, 23:04","eos goon pt2","Butterfly (Pec Deck)",,"",1,"normal",60,9,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Chin Up",,"",0,"normal",,8,,,9
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Chin Up",,"",1,"normal",,8,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Hammer Curl (Cable)",,"",0,"normal",38.5,11,,,9.5
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Hammer Curl (Cable)",,"",1,"normal",33,12,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Single Arm Lateral Raise (Cable)",,"",0,"normal",22,9,,,9.5
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Single Arm Lateral Raise (Cable)",,"",1,"normal",22,11,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Triceps Dip",,"",0,"normal",,6,,,9.5
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Triceps Dip",,"",1,"normal",,7,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Preacher Curl (Barbell)",,"",0,"warmup",20,6,,,6
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Preacher Curl (Barbell)",,"",1,"normal",50,6,,,9.5
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Preacher Curl (Barbell)",,"",2,"normal",50,8,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Shoulder Press (Machine Plates)",,"",0,"normal",100,6,,,8.5
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Shoulder Press (Machine Plates)",,"",1,"normal",150,3,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Shoulder Press (Machine Plates)",,"",2,"dropset",120,4,,,10
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Triceps Extension (Cable)",,"",0,"normal",38.5,12,,,9
+"charms chowdhury goon with ethan and felipe","19 Jul 2025, 02:31","19 Jul 2025, 03:51","discrete exam to ihop to eos","Triceps Extension (Cable)",,"",1,"normal",38.5,8,,,10
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Spinning",,"",0,"normal",,,,510,
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Preacher Curl (Barbell)",,"",0,"warmup",25,12,,,6
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Preacher Curl (Barbell)",,"",1,"normal",45,12,,,8.5
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Preacher Curl (Barbell)",,"",2,"normal",45,13,,,10
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Triceps Extension (Cable)",,"",0,"normal",40,12,,,8.5
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Triceps Extension (Cable)",,"",1,"normal",40,14,,,10
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Single Arm Lateral Raise (Cable)",,"",0,"normal",20,12,,,9
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Single Arm Lateral Raise (Cable)",,"",1,"normal",20,13,,,10
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Triceps Kickback (Cable)",,"",0,"normal",40,10,,,9
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Triceps Kickback (Cable)",,"",1,"normal",40,7,,,10
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Bayesian Curl",,"",0,"normal",30,12,,,8.5
+"Arms","14 Jul 2025, 15:29","14 Jul 2025, 16:31","rain rain go away","Bayesian Curl",,"",1,"normal",30,14,,,10
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Spinning",,"",0,"normal",,,,300,
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Pull Up",,"",0,"normal",,8,,,8.5
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Pull Up",,"",1,"normal",,6,,,9.5
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Lat Pulldown (Cable)",,"",0,"normal",99,10,,,9
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Lat Pulldown (Cable)",,"",1,"normal",99,9,,,10
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Incline Bench Press (Dumbbell)",,"",0,"warmup",50,12,,,7
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Incline Bench Press (Dumbbell)",,"",1,"normal",75,10,,,8.5
+"Chest/Back","8 Jul 2025, 15:39","8 Jul 2025, 16:15","i felt like leaving early so i did #consistencyiskey #nodaysoff","Incline Bench Press (Dumbbell)",,"",2,"normal",75,8,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Pull Up",,"",0,"normal",,6,,,9
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Preacher Curl (Barbell)",,"",0,"warmup",25,12,,,7
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Preacher Curl (Barbell)",,"",1,"normal",45,12,,,9
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Preacher Curl (Barbell)",,"",2,"normal",45,10,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Triceps Extension (Cable)",,"",0,"normal",37.5,12,,,8
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Triceps Extension (Cable)",,"",1,"normal",37.5,14,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Single Arm Lateral Raise (Cable)",,"",0,"normal",20,12,,,8
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Single Arm Lateral Raise (Cable)",,"",1,"normal",25,12,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Hammer Curl (Dumbbell)",,"",0,"normal",40,12,,,8.5
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Hammer Curl (Dumbbell)",,"",1,"normal",40,15,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Triceps Kickback (Cable)",,"",0,"normal",35,12,,,8.5
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Triceps Kickback (Cable)",,"",1,"normal",35,15,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Bayesian Curl",,"",0,"normal",35,8,,,9
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Bayesian Curl",,"",1,"normal",30,10,,,10
+"Arms","1 Jul 2025, 15:02","1 Jul 2025, 16:38","areeb photoshoot","Lateral Raise (Dumbbell)",,"",0,"normal",30,10,,,10
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Spinning",,"",0,"normal",,,,300,
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Pull Up",,"",0,"normal",,3,,,10
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Bench Press (Barbell)",,"",0,"normal",45,12,,,6
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Single Leg Press (Machine)",,"1: right leg assisted 2: left leg 3: right leg",0,"normal",15,15,,,7.5
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Single Leg Press (Machine)",,"1: right leg assisted 2: left leg 3: right leg",1,"normal",115,12,,,9
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Single Leg Press (Machine)",,"1: right leg assisted 2: left leg 3: right leg",2,"normal",15,5,,,10
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Leg Press Horizontal (Machine)",,"",0,"normal",155,24,,,10
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Single Leg Extensions",,"",0,"normal",,12,,,8.5
+"little bit of this little bit of that nasar chowdhury","25 Jun 2025, 16:19","25 Jun 2025, 16:59","","Single Leg Extensions",,"",1,"normal",70,12,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Preacher Curl (Barbell)",,"",0,"warmup",25,12,,,7.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Preacher Curl (Barbell)",,"",1,"normal",45,12,,,8.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Preacher Curl (Barbell)",,"",2,"normal",45,8,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","T Bar Row",,"",0,"normal",65,12,,,7.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","T Bar Row",,"",1,"normal",85,12,,,9
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","T Bar Row",,"",2,"normal",85,12,,,9.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Lat Pulldown (Cable)",,"",0,"normal",99,12,,,9
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Lat Pulldown (Cable)",,"",1,"normal",99,14,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Bayesian Curl",,"",0,"normal",33,8,,,9.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Bayesian Curl",,"",1,"failure",33,7,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Bayesian Curl",,"",2,"dropset",22,2,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Single Arm Lateral Raise (Cable)",,"",0,"normal",22,11,,,9.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Single Arm Lateral Raise (Cable)",,"",1,"normal",22,12,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Iso-Lateral Low Row",,"",0,"normal",58,10,,,9.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Iso-Lateral Low Row",,"",1,"normal",48,14,,,10
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Hammer Curl (Dumbbell)",,"",0,"normal",40,10,,,9.5
+"Back/Biceps/Shoulders","24 Jun 2025, 17:52","24 Jun 2025, 19:37","avner and dj spawned","Hammer Curl (Dumbbell)",,"",1,"normal",40,9,,,10
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Spinning",,"",0,"normal",,,,175,
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Pull Up",,"",0,"normal",,4,,,
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Incline Bench Press (Dumbbell)",,"",0,"warmup",50,12,,,7
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Incline Bench Press (Dumbbell)",,"",1,"normal",70,12,,,9
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Incline Bench Press (Dumbbell)",,"",2,"normal",70,12,,,10
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Lat Pulldown (Cable)",,"",0,"normal",95,12,,,9
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Lat Pulldown (Cable)",,"",1,"normal",95,12,,,10
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Cable Fly Crossovers",,"",0,"normal",50,12,,,9.5
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Cable Fly Crossovers",,"",1,"normal",50,8,,,10
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Rear Delt Reverse Fly (Cable)",,"",0,"normal",20,12,,,10
+"Chest/Back","23 Jun 2025, 18:34","23 Jun 2025, 19:22","this one is for all the santiagos in the world who cut my hair","Seated Shoulder Press (Machine)",,"",0,"normal",50,12,,,10
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Spinning",,"",0,"normal",,,,360,
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Pull Up",,"",0,"normal",,6,,,9.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,6
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Preacher Curl (Barbell)",,"",1,"normal",40,8,,,9
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Preacher Curl (Barbell)",,"",2,"normal",40,7,,,10
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Triceps Extension (Cable)",,"",0,"normal",35,12,,,8.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Triceps Extension (Cable)",,"",1,"normal",35,13,,,10
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Single Arm Lateral Raise (Cable)",,"",0,"normal",20,12,,,8.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Single Arm Lateral Raise (Cable)",,"",1,"normal",20,16,,,10
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Hammer Curl (Dumbbell)",,"",0,"normal",40,12,,,8.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Hammer Curl (Dumbbell)",,"",1,"normal",40,13,,,9.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Bayesian Curl",,"",0,"normal",25,12,,,8
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Bayesian Curl",,"",1,"normal",25,13,,,10
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Triceps Kickback (Cable)",,"",0,"normal",35,12,,,8.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Triceps Kickback (Cable)",,"",1,"normal",35,12,,,10
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Lateral Raise (Dumbbell)",,"",0,"normal",20,12,,,7.5
+"Arms","22 Jun 2025, 13:11","22 Jun 2025, 14:28","#repsforlebron","Lateral Raise (Dumbbell)",,"",1,"normal",20,15,,,10
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Incline Bench Press (Dumbbell)",,"",0,"warmup",50,12,,,7.5
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Incline Bench Press (Dumbbell)",,"",1,"normal",75,11,,,9
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Incline Bench Press (Dumbbell)",,"",2,"normal",75,8,,,10
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Arnold Press (Dumbbell)",,"",0,"normal",40,12,,,9
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Arnold Press (Dumbbell)",,"",1,"normal",50,8,,,9.5
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Arnold Press (Dumbbell)",,"",2,"normal",50,9,,,10
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Single Arm Lateral Raise (Cable)",,"",0,"normal",20,12,,,9.5
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Single Arm Lateral Raise (Cable)",,"",1,"normal",20,11,,,10
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Rear Delt Reverse Fly (Cable)",,"",0,"normal",20,9,,,9
+"ador chowdhury chest/shoulders","16 Jun 2025, 16:25","16 Jun 2025, 17:34","","Rear Delt Reverse Fly (Cable)",,"",1,"normal",20,7,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Spinning",,"",0,"normal",,,,390,
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Standing Calf Raise (Machine)",,"almost died 3 times trying to do right leg only",0,"normal",50,10,,,9
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Press (Machine)",,"one leg at a time, slight assist for right leg on first set",0,"normal",20,12,,,9.5
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Press (Machine)",,"one leg at a time, slight assist for right leg on first set",1,"normal",80,12,,,8
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Press (Machine)",,"one leg at a time, slight assist for right leg on first set",2,"normal",20,12,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Press (Machine)",,"one leg at a time, slight assist for right leg on first set",3,"normal",100,21,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Leg Press Horizontal (Machine)",,"",0,"normal",140,18,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Romanian Deadlift (Dumbbell)",,"how is every leg curl machine out of order wth are the tortas doing",0,"normal",90,10,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Romanian Deadlift (Dumbbell)",,"how is every leg curl machine out of order wth are the tortas doing",1,"normal",90,12,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Extensions",,"couldn’t do 20 on right even with assist so long arc quad it is",0,"normal",60,14,,,10
+"Legs","15 Jun 2025, 18:58","15 Jun 2025, 20:01","left leg day","Single Leg Extensions",,"couldn’t do 20 on right even with assist so long arc quad it is",1,"normal",,12,,,10
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Spinning",,"",0,"normal",,,,299,
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Zacob Chowdhury Intermission",,"wild zacob sighting",0,"normal",,,,1281,
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Pull Up",,"bro how is every lat pulldown taken",0,"normal",,8,,,9
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Pull Up",,"bro how is every lat pulldown taken",1,"normal",,5,,,10
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Single Arm Lateral Raise (Cable)",,"",0,"normal",22,12,,,9.5
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Single Arm Lateral Raise (Cable)",,"",1,"normal",22,10,,,10
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Lat Pulldown (Cable)",,"",0,"normal",99,12,,,9.5
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Lat Pulldown (Cable)",,"",1,"normal",99,11,,,10
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Hammer Curl (Dumbbell)",,"",0,"normal",35,12,,,8
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Hammer Curl (Dumbbell)",,"",1,"normal",40,13,,,10
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Seated Shoulder Press (Machine)",,"",0,"normal",50,12,,,8
+"lil bit of this lil bit of that ahh workout","27 May 2025, 16:43","27 May 2025, 17:56","unintentional zacob sighting","Seated Shoulder Press (Machine)",,"",1,"normal",55,15,,,10
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Spinning",,"",0,"normal",,,,302,
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,7
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Preacher Curl (Barbell)",,"",1,"normal",40,12,,,8.5
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Preacher Curl (Barbell)",,"",2,"normal",40,14,,,10
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Triceps Extension (Cable)",,"",0,"normal",38.5,12,,,8.5
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Triceps Extension (Cable)",,"",1,"normal",38.5,13,,,10
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Single Arm Lateral Raise (Cable)",,"",0,"normal",22,12,,,9
+"Arms","26 May 2025, 20:48","26 May 2025, 21:22","day 328 of training to beat the hell out of @nafi77","Single Arm Lateral Raise (Cable)",,"",1,"normal",22,13,,,10
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Shrug (Barbell)",,"",0,"normal",90,14,,,9.5
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Incline Bench Press (Dumbbell)",,"",0,"warmup",50,12,,,8.5
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Incline Bench Press (Dumbbell)",,"",1,"normal",65,12,,,9
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Incline Bench Press (Dumbbell)",,"",2,"normal",70,14,,,10
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Iso-Lateral Row (Machine)",,"",0,"warmup",28,12,,,7.5
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Iso-Lateral Row (Machine)",,"",1,"normal",78,12,,,9.5
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Iso-Lateral Row (Machine)",,"",2,"normal",78,11,,,10
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Cable Fly Crossovers",,"",0,"normal",50,10,,,9
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Cable Fly Crossovers",,"",1,"normal",50,10,,,10
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Rear Delt Reverse Fly (Cable)",,"",0,"normal",20,11,,,9.5
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Lat Pulldown (Cable)",,"",0,"normal",93,12,,,9
+"Chest/Back","25 May 2025, 14:49","25 May 2025, 15:54","for nafis khan","Lat Pulldown (Cable)",,"",1,"normal",99,10,,,10
 "Arms","14 May 2025, 17:20","14 May 2025, 18:39","","Preacher Curl (Barbell)",,"",0,"warmup",20,12,,,6
 "Arms","14 May 2025, 17:20","14 May 2025, 18:39","","Preacher Curl (Barbell)",,"",1,"normal",40,12,,,8.5
 "Arms","14 May 2025, 17:20","14 May 2025, 18:39","","Preacher Curl (Barbell)",,"",2,"normal",40,10,,,9
@@ -41,10 +443,10 @@
 "Chest/Back","7 May 2025, 16:10","7 May 2025, 16:55","","Seated Shoulder Press (Machine)",,"",0,"normal",45,10,,,9
 "Chest/Back","7 May 2025, 16:10","7 May 2025, 16:55","","Seated Shoulder Press (Machine)",,"",1,"normal",45,9,,,10
 "Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Spinning",,"",0,"normal",,,,300,
-"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press (Machine)",,"",0,"normal",10,12,,,9
-"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press (Machine)",,"",1,"normal",70,12,,,8.5
-"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press (Machine)",,"",2,"normal",10,12,,,9
-"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press (Machine)",,"",3,"normal",70,20,,,9.5
+"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press Horizontal (Machine)",,"",0,"normal",10,12,,,9
+"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press Horizontal (Machine)",,"",1,"normal",70,12,,,8.5
+"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press Horizontal (Machine)",,"",2,"normal",10,12,,,9
+"Legs/Abs","2 May 2025, 16:21","2 May 2025, 16:49","","Leg Press Horizontal (Machine)",,"",3,"normal",70,20,,,9.5
 "Arms","30 Apr 2025, 18:32","30 Apr 2025, 19:01","","Preacher Curl (Barbell)",,"",0,"warmup",20,10,,,7.5
 "Arms","30 Apr 2025, 18:32","30 Apr 2025, 19:01","","Preacher Curl (Barbell)",,"",1,"normal",40,8,,,9.5
 "Arms","30 Apr 2025, 18:32","30 Apr 2025, 19:01","","Preacher Curl (Barbell)",,"",2,"normal",40,5,,,10
