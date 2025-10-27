@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 
 def process_data(workouts_file, bodyweight_file):
     workouts_df = pd.read_csv(workouts_file)
-    bodyweight_df = pd.read_csv(bodyweight_file)
+    bodyweights_df = pd.read_csv(bodyweight_file)
 
     # keep only relevant strength training exercises
     workouts_df = workouts_df.drop(['description', 'exercise_notes'], axis=1)
@@ -27,11 +27,11 @@ def process_data(workouts_file, bodyweight_file):
     workouts_df = workouts_df[cols]
 
     # keep only bodyweight data and convert date to datetime object
-    weight_df = weight_df[['date', 'weight_lbs']]
-    weight_df['date'] = pd.to_datetime(weight_df['date'])
+    bodyweights_df = bodyweights_df[['date', 'weight_lbs']]
+    bodyweights_df['date'] = pd.to_datetime(bodyweights_df['date'])
 
     # merge workout and bodyweight data
-    final_df = pd.merge(workouts_df, weight_df, on='date', how='outer')
+    final_df = pd.merge(workouts_df, bodyweights_df, on='date', how='outer')
     final_df.sort_values(by='date', ascending=True, inplace=True)  # sort in ascending order
     
     # rename duplicate columns
