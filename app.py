@@ -31,19 +31,19 @@ def process_data(workouts_file, bodyweight_file):
     bodyweights_df['date'] = pd.to_datetime(bodyweights_df['date'])
 
     # merge workout and bodyweight data
-    final_df = pd.merge(workouts_df, bodyweights_df, on='date', how='outer')
-    final_df.sort_values(by='date', ascending=True, inplace=True)  # sort in ascending order
+    processed_df = pd.merge(workouts_df, bodyweights_df, on='date', how='outer')
+    processed_df.sort_values(by='date', ascending=True, inplace=True)  # sort in ascending order
     
     # rename duplicate columns
-    final_df = final_df.rename(columns={
+    processed_df = processed_df.rename(columns={
         'title': 'workout_title',
         'weight_lbs_x': 'working_weight_lbs',
         'weight_lbs_y': 'bodyweight_lbs'
     })
 
     # rearrange columns for logical presentation
-    cols = final_df.columns.tolist()
+    cols = processed_df.columns.tolist()
     cols.insert(0, cols.pop(cols.index('date')))
-    final_df = final_df[cols]
+    processed_df = processed_df[cols]
     cols.insert(1, cols.pop(cols.index('bodyweight_lbs')))
-    final_df = final_df[cols]
+    processed_df = processed_df[cols]
