@@ -160,6 +160,7 @@ def main():
         selected_exercise = st.selectbox("Select an exercise to view trends", exercise_list)
         
         selected_exercise_df = processed_df[processed_df['exercise_title'] == selected_exercise]  # create dataframe of only selected exercise
+        selected_exercise_df = selected_exercise_df.dropna(subset=['estimated_1rm'])  # drop any rows without an e1rm (meaning no rpe or too many reps)
         daily_max_e1rm_df = selected_exercise_df.groupby('date')['estimated_1rm'].max().reset_index()  # create dataframe with highest e1rm per workout
         
         e1rm_chart = visualize_e1rm(daily_max_e1rm_df)
