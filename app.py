@@ -118,10 +118,7 @@ def visualize_bodyweight(processed_df):
     
     return bodyweight_chart
 
-def visualize_e1rm(processed_df, selected_exercise):
-    selected_exercise_df = processed_df[processed_df['exercise_title'] == selected_exercise]  # create dataframe of only selected exercise
-    daily_max_e1rm_df = selected_exercise_df.groupby('date')['estimated_1rm'].max().reset_index()  # create dataframe with highest e1rm per workout
-    
+def visualize_e1rm(daily_max_e1rm_df):    
     # create a line chart to show change in e1rm
     e1rm_chart = px.line(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'})
     
@@ -161,7 +158,11 @@ def main():
         st.header("Strength Visualization")
         exercise_list = get_exercise_list(processed_df)
         selected_exercise = st.selectbox("Select an exercise to view trends", exercise_list)
-        e1rm_chart = visualize_e1rm(processed_df, selected_exercise)
+        
+        selected_exercise_df = processed_df[processed_df['exercise_title'] == selected_exercise]  # create dataframe of only selected exercise
+        daily_max_e1rm_df = selected_exercise_df.groupby('date')['estimated_1rm'].max().reset_index()  # create dataframe with highest e1rm per workout
+        
+        e1rm_chart = visualize_e1rm(daily_max_e1rm_df)
         st.plotly_chart(e1rm_chart)
 
 if __name__ == "__main__":
