@@ -116,7 +116,8 @@ def visualize_bodyweight(processed_df):
 
 def visualize_e1rm(processed_df, selected_exercise):
     selected_exercise_df = processed_df[processed_df['exercise_title'] == selected_exercise]
-    e1rm_chart = px.line(selected_exercise_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'})
+    daily_max_e1rm_df = selected_exercise_df.groupby('date')['estimated_1rm'].max().reset_index()
+    e1rm_chart = px.line(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'})
     
     # date shown every 2 months in mm/yyyy format
     e1rm_chart.update_layout(
