@@ -190,6 +190,7 @@ def main():
             forecast_end_date = forecast_start_date + 90  # create 90-day forecast
             forecast_day_range = np.arange(forecast_start_date, forecast_end_date).reshape(-1, 1)  # numpy array of all days in chosen forecast period
             
+            forecasted_e1rm = model.predict(forecast_day_range)
 
 if __name__ == "__main__":
     main()
