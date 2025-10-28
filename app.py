@@ -77,3 +77,14 @@ def process_data(workouts_file, bodyweight_file):
     processed_df = processed_df[cols]
     cols.insert(1, cols.pop(cols.index('bodyweight_lbs')))
     processed_df = processed_df[cols]
+
+    # add estimated 1-rep max column with value
+    processed_df['estimated_1rm'] = processed_df.apply(calculate_e1rm, axis=1)
+
+    # fill in gaps in weight records with a straight line between existing values and rearrange columns
+    processed_df['bodyweight_interpolated'] = processed_df['bodyweight_lbs'].interpolate()
+    cols = processed_df.columns.tolist()
+    cols.insert(2, cols.pop(cols.index('bodyweight_interpolated')))
+    processed_df = processed_df[cols]
+
+    return processed_df
