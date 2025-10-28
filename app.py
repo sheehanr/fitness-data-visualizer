@@ -33,6 +33,12 @@ def calculate_e1rm(row):
     except (KeyError, TypeError):
         return None
 
+def get_exercise_list(processed_df):
+    exercise_list = processed_df['exercise_title'].dropna().unique()  # does not consider rows with only bodyweight data and drops duplicates
+    exercise_list.sort()
+    
+    return exercise_list
+
 def process_data(workouts_file, bodyweights_file):
     workouts_df = pd.read_csv(workouts_file)
     bodyweights_df = pd.read_csv(bodyweights_file)
