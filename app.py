@@ -102,11 +102,11 @@ def visualize_bodyweight(processed_df):
     # recorded values are dots and laid over interpolated chart
     bodyweight_dots = px.scatter(processed_df, 'date', 'bodyweight_lbs')
     bodyweight_dots.update_traces(
-        marker=dict(size=3, opacity=0.5, color="lavender")  # make dots more readable
+        marker=dict(size=3, opacity=0.5, color="lavender")  # change dot properties
     )
     bodyweight_chart.add_trace(bodyweight_dots.data[0])
     
-    # date shown every 2 months in mm/yyyy format
+    # date shown in mm/yyyy format
     bodyweight_chart.update_layout(
         xaxis_tickformat="%m/%Y"
     )
@@ -114,11 +114,21 @@ def visualize_bodyweight(processed_df):
     return bodyweight_chart
 
 def visualize_e1rm(processed_df, selected_exercise):
-    selected_exercise_df = processed_df[processed_df['exercise_title'] == selected_exercise]
-    daily_max_e1rm_df = selected_exercise_df.groupby('date')['estimated_1rm'].max().reset_index()
+    selected_exercise_df = processed_df[processed_df['exercise_title'] == selected_exercise]  # create dataframe of only selected exercise
+    daily_max_e1rm_df = selected_exercise_df.groupby('date')['estimated_1rm'].max().reset_index()  # create dataframe with highest e1rm per workout
+    
+    # create a line chart to show change in e1rm
     e1rm_chart = px.line(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'})
     
-    # date shown every 2 months in mm/yyyy format
+    # create a scatter plot to show recorded values and get a trendline laid over line chart
+    e1rm_dots = px.scatter(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'}, trendline="ols")
+    e1rm_chart.add_trace(e1rm_dots.data[0])
+    e1rm_chart.add_trace(e1rm_dots.data[1])
+    e1rm_dots.update_traces(
+        marker=dict(size=3, opacity=1)  # change dot properties
+    )
+    
+    # date shown in mm/yyyy format
     e1rm_chart.update_layout(
         xaxis_tickformat="%m/%Y"
     )
