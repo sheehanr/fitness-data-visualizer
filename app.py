@@ -108,8 +108,7 @@ def visualize_bodyweight(processed_df):
     
     # date shown every 2 months in mm/yyyy format
     bodyweight_chart.update_layout(
-        xaxis_tickformat="%m/%Y",
-        xaxis_dtick="M2"
+        xaxis_tickformat="%m/%Y"
     )
     
     return bodyweight_chart
@@ -121,8 +120,7 @@ def visualize_e1rm(processed_df, selected_exercise):
     
     # date shown every 2 months in mm/yyyy format
     e1rm_chart.update_layout(
-        xaxis_tickformat="%m/%Y",
-        xaxis_dtick="M2"
+        xaxis_tickformat="%m/%Y"
     )
     
     return e1rm_chart
