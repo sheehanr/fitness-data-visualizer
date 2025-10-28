@@ -127,6 +127,10 @@ def main():
         st.header("Bodyweight Visualization")
         bodyweight_chart = visualize_bodyweight(processed_df)
         st.plotly_chart(bodyweight_chart)
+        
+        st.header("Strength Visualization")
+        e1rm_chart = visualize_e1rm(processed_df)
+        st.plotly_chart(e1rm_chart)
 
 if __name__ == "__main__":
     main()
