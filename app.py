@@ -96,3 +96,6 @@ def main():
 
     if workouts_file is not None and bodyweights_file is not None:
         processed_df = process_data(workouts_file, bodyweights_file)
+
+if __name__ == "__main__":
+    main()
