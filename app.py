@@ -172,8 +172,9 @@ def main():
         if show_forecast:
             forecast_df = daily_max_e1rm_df
             
-            # days since first workout
-            start_date = forecast_df['date'].min()
+            # find first and last days exercise was recorded and create day counter
+            start_date = daily_max_e1rm_df['date'].min()
+            end_date = daily_max_e1rm_df['date'].max()
             forecast_df['day_number'] = (forecast_df['date'] - start_date).dt.days
             
             # variables for sklearn
