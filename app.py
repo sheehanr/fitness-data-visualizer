@@ -152,13 +152,14 @@ def main():
     if workouts_file is not None and bodyweights_file is not None:
         processed_df = process_data(workouts_file, bodyweights_file)
         
+        # bodyweight section
         st.header("Bodyweight Visualization")
         bodyweight_chart = visualize_bodyweight(processed_df)
         st.plotly_chart(bodyweight_chart)
         
-        exercise_list = get_exercise_list(processed_df)
-        
+        # strength section
         st.header("Strength Visualization")
+        exercise_list = get_exercise_list(processed_df)
         selected_exercise = st.selectbox("Select an exercise to view trends", exercise_list)
         e1rm_chart = visualize_e1rm(processed_df, selected_exercise)
         st.plotly_chart(e1rm_chart)
