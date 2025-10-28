@@ -91,7 +91,7 @@ def process_data(workouts_file, bodyweights_file):
 
 def visualize_bodyweight(processed_df):
     # create a line chart of interpolated data
-    bodyweight_chart = px.line(processed_df, 'date', 'bodyweight_interpolated', title="Bodyweight Over Time", labels={'date': 'Date', 'bodyweight_interpolated': 'Bodyweight (lbs)'}, color="phase")
+    bodyweight_chart = px.line(processed_df, 'date', 'bodyweight_interpolated', title="Bodyweight Over Time", labels={'date': 'Date', 'bodyweight_interpolated': 'Bodyweight (lbs)'})
 
     # recorded values are dots and laid over interpolated chart
     bodyweight_dots = px.scatter(processed_df, 'date', 'bodyweight_lbs')
@@ -105,6 +105,8 @@ def visualize_bodyweight(processed_df):
         xaxis_tickformat="%m/%Y",
         xaxis_dtick="M2"
     )
+    
+    return bodyweight_chart
 
 def main():
     st.title("Fitness Data Visualizer")
