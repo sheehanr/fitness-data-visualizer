@@ -164,6 +164,19 @@ def main():
         
         e1rm_chart = visualize_e1rm(daily_max_e1rm_df)
         st.plotly_chart(e1rm_chart)
+            
+        # fitness forecaster
+        show_forecast = st.checkbox("Check this box to view your fitness forecast")
+        if show_forecast:
+            forecast_df = daily_max_e1rm_df
+            
+            # days since first workout
+            start_date = forecast_df['date'].min()
+            forecast_df['day_number'] = (forecast_df['date'] - start_date).dt.days
+            
+            # variables for sklearn
+            X = forecast_df['day_number'].values.reshape(-1, 1)  # convert to 2d array
+            y = forecast_df['estimated_1rm'].values
 
 if __name__ == "__main__":
     main()
