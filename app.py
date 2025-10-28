@@ -123,6 +123,8 @@ def visualize_e1rm(processed_df, selected_exercise):
         xaxis_tickformat="%m/%Y",
         xaxis_dtick="M2"
     )
+    
+    return e1rm_chart
 
 def main():
     st.title("Fitness Data Visualizer")
