@@ -102,7 +102,7 @@ def visualize_bodyweight(processed_df):
     # recorded values are dots and laid over interpolated chart
     bodyweight_dots = px.scatter(processed_df, 'date', 'bodyweight_lbs')
     bodyweight_dots.update_traces(
-        marker=dict(size=5, opacity=0.5, color="gray")  # make dots more readable
+        marker=dict(size=3, opacity=0.5, color="lavender")  # make dots more readable
     )
     bodyweight_chart.add_trace(bodyweight_dots.data[0])
     
