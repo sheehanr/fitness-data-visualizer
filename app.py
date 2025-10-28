@@ -130,8 +130,11 @@ def main():
         bodyweight_chart = visualize_bodyweight(processed_df)
         st.plotly_chart(bodyweight_chart)
         
+        exercise_list = []
+        
         st.header("Strength Visualization")
-        e1rm_chart = visualize_e1rm(processed_df)
+        selected_exercise = st.selectbox("Select an exercise to view trends", exercise_list)
+        e1rm_chart = visualize_e1rm(processed_df, selected_exercise)
         st.plotly_chart(e1rm_chart)
 
 if __name__ == "__main__":
