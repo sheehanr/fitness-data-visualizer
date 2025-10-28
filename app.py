@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import streamlit as st
 from sklearn.linear_model import LinearRegression
@@ -178,6 +179,16 @@ def main():
             # variables for sklearn
             X = forecast_df['day_number'].values.reshape(-1, 1)  # convert to 2d array
             y = forecast_df['estimated_1rm'].values
+            
+            # create and train model
+            model = LinearRegression()
+            model.fit(X, y)
+            
+            # create range of dates
+            forecast_start_date = X[-1][0] + 1
+            forecast_end_date = forecast_start_date + 90
+            forecast_day_range = np.arrange(forecast_start_date, forecast_end_date).reshape(-1, 1)
+            
 
 if __name__ == "__main__":
     main()
