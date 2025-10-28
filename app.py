@@ -34,8 +34,8 @@ def calculate_e1rm(row):
         return None
 
 def get_exercise_list(processed_df):
-    exercise_list = processed_df['exercise_title'].dropna().unique()  # does not consider rows with only bodyweight data and drops duplicates
-    exercise_list.sort()
+    exercise_value_counts = processed_df['exercise_title'].value_counts()
+    exercise_list = exercise_value_counts.index.tolist()
     
     return exercise_list
 
