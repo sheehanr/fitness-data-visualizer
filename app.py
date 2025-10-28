@@ -113,6 +113,10 @@ def main():
 
     if workouts_file is not None and bodyweights_file is not None:
         processed_df = process_data(workouts_file, bodyweights_file)
+        
+        st.header("Bodyweight Visualization")
+        bodyweight_chart = visualize_bodyweight(processed_df)
+        st.plotly_chart(bodyweight_chart)
 
 if __name__ == "__main__":
     main()
