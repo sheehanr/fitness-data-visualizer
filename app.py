@@ -176,21 +176,24 @@ def main():
             start_date = daily_max_e1rm_df['date'].min()
             end_date = daily_max_e1rm_df['date'].max()
             forecast_df['day_number'] = (forecast_df['date'] - start_date).dt.days
+
+            # variables for sklearn
+            X = forecast_df['day_number'].values.reshape(-1, 1)  # convert to 2d array
+            y = forecast_df['estimated_1rm'].values
             
             # create range of dates
             forecast_start_date = X[-1][0] + 1  # day after last recorded workout
             forecast_end_date = forecast_start_date + 90  # create 90-day forecast
             forecast_day_range = np.arange(forecast_start_date, forecast_end_date).reshape(-1, 1)  # numpy array of all days in chosen forecast period
-            
-            # variables for sklearn
-            X = forecast_df['day_number'].values.reshape(-1, 1)  # convert to 2d array
-            y = forecast_df['estimated_1rm'].values
-            
+                        
             # create and train model then store forecasted values
             model = LinearRegression()
             model.fit(X, y)
             forecasted_e1rm = model.predict(forecast_day_range)
             forecasted_dates = pd.date_range(start=end_date + pd.Timedelta(days=1), periods=90, freq='D')  # starts on day after last recorded value and generates 90 dates that step day by day
+            
+            # add forecasted data to existing chart
+            e1rm_chart.add_scatter(x=forecasted_dates, y=forecasted_e1rm, mode="lines", name = "Forecasted Data")
 
 if __name__ == "__main__":
     main()
