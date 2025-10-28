@@ -186,9 +186,9 @@ def main():
             model.fit(X, y)
             
             # create range of dates
-            forecast_start_date = X[-1][0] + 1
-            forecast_end_date = forecast_start_date + 90
-            forecast_day_range = np.arrange(forecast_start_date, forecast_end_date).reshape(-1, 1)
+            forecast_start_date = X[-1][0] + 1  # day after last recorded workout
+            forecast_end_date = forecast_start_date + 90  # create 90-day forecast
+            forecast_day_range = np.arange(forecast_start_date, forecast_end_date).reshape(-1, 1)  # numpy array of all days in chosen forecast period
             
 
 if __name__ == "__main__":
