@@ -99,12 +99,17 @@ def visualize_bodyweight(processed_df):
     # create a line chart of interpolated data
     bodyweight_chart = px.line(processed_df, 'date', 'bodyweight_interpolated', title="Bodyweight Over Time", labels={'date': 'Date', 'bodyweight_interpolated': 'Bodyweight (lbs)'})
 
-    # recorded values are dots and laid over interpolated chart
-    bodyweight_dots = px.scatter(processed_df, 'date', 'bodyweight_lbs')
+    # recorded values are dots and laid over interpolated chart along with trendline
+    bodyweight_dots = px.scatter(processed_df, 'date', 'bodyweight_lbs', trendline="ols")
+    
+    # customize scatter plot elements
     bodyweight_dots.update_traces(
-        marker=dict(size=3, opacity=0.5, color="lavender")  # change dot properties
+        marker=dict(size=3, opacity=0.5, color="lavender"),
+        line=dict(color="rgba(255, 255, 255, 0.5)", dash="dashdot")
     )
+    
     bodyweight_chart.add_trace(bodyweight_dots.data[0])
+    bodyweight_chart.add_trace(bodyweight_dots.data[1])
     
     # date shown in mm/yyyy format
     bodyweight_chart.update_layout(
@@ -121,7 +126,7 @@ def visualize_e1rm(processed_df, selected_exercise):
     e1rm_chart = px.line(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'})
     
     # create a scatter plot to show recorded values and get a trendline laid over line chart
-    e1rm_dots = px.scatter(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'}, trendline="ols")
+    e1rm_dots = px.scatter(daily_max_e1rm_df, 'date', 'estimated_1rm', trendline="ols")
     
     # customize scatter plot elements
     e1rm_dots.update_traces(
