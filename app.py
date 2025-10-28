@@ -190,6 +190,7 @@ def main():
             model = LinearRegression()
             model.fit(X, y)
             forecasted_e1rm = model.predict(forecast_day_range)
+            forecasted_dates = pd.date_range(start=end_date + pd.Timedelta(days=1), periods=90, freq='D')  # starts on day after last recorded value and generates 90 dates that step day by day
 
 if __name__ == "__main__":
     main()
