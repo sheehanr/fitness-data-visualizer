@@ -122,11 +122,15 @@ def visualize_e1rm(processed_df, selected_exercise):
     
     # create a scatter plot to show recorded values and get a trendline laid over line chart
     e1rm_dots = px.scatter(daily_max_e1rm_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'}, trendline="ols")
+    
+    # customize scatter plot elements
+    e1rm_dots.update_traces(
+        marker=dict(color="white", opacity=0.5),
+        line=dict(color="rgba(255, 255, 255, 0.5)", dash="dashdot")
+    )
+    
     e1rm_chart.add_trace(e1rm_dots.data[0])
     e1rm_chart.add_trace(e1rm_dots.data[1])
-    e1rm_dots.update_traces(
-        marker=dict(size=3, opacity=1)  # change dot properties
-    )
     
     # date shown in mm/yyyy format
     e1rm_chart.update_layout(
