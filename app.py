@@ -138,7 +138,7 @@ def main():
         bodyweight_chart = visualize_bodyweight(processed_df)
         st.plotly_chart(bodyweight_chart)
         
-        exercise_list = []
+        exercise_list = get_exercise_list(processed_df)
         
         st.header("Strength Visualization")
         selected_exercise = st.selectbox("Select an exercise to view trends", exercise_list)
