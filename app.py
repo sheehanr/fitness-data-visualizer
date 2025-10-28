@@ -108,6 +108,14 @@ def visualize_bodyweight(processed_df):
     
     return bodyweight_chart
 
+def visualize_e1rm(processed_df):
+    e1rm_chart = px.line(processed_df, 'date', 'estimated_1rm', title="Estimated 1RM Over Time", labels={'date': 'Date', 'estimated_1rm': 'Estimated 1RM (lbs)'})
+    # date shown every 2 months in mm/yyyy format
+    e1rm_chart.update_layout(
+        xaxis_tickformat="%m/%Y",
+        xaxis_dtick="M2"
+    )
+
 def main():
     st.title("Fitness Data Visualizer")
     workouts_file = st.file_uploader("Upload workout data (.CSV)")
