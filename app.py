@@ -33,9 +33,9 @@ def calculate_e1rm(row):
     except (KeyError, TypeError):
         return None
 
-def process_data(workouts_file, bodyweight_file):
+def process_data(workouts_file, bodyweights_file):
     workouts_df = pd.read_csv(workouts_file)
-    bodyweights_df = pd.read_csv(bodyweight_file)
+    bodyweights_df = pd.read_csv(bodyweights_file)
 
     # keep only relevant strength training exercises
     workouts_df = workouts_df.drop(['description', 'exercise_notes'], axis=1)
@@ -88,3 +88,11 @@ def process_data(workouts_file, bodyweight_file):
     processed_df = processed_df[cols]
 
     return processed_df
+
+def main():
+    st.title("Fitness Data Visualizer")
+    workouts_file = st.file_uploader("Upload workout data (.CSV)")
+    bodyweights_file = st.file_uploader("Upload bodyweight data (.CSV)")
+
+    if workouts_file is not None and bodyweights_file is not None:
+        processed_df = process_data(workouts_file, bodyweights_file)
