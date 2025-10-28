@@ -128,8 +128,8 @@ def visualize_e1rm(processed_df, selected_exercise):
 
 def main():
     st.title("Fitness Data Visualizer")
-    workouts_file = st.file_uploader("Upload workout data (.CSV)")
-    bodyweights_file = st.file_uploader("Upload bodyweight data (.CSV)")
+    workouts_file = st.file_uploader("Upload workout data (.CSV)", 'csv')
+    bodyweights_file = st.file_uploader("Upload bodyweight data (.CSV)", 'csv')
 
     if workouts_file is not None and bodyweights_file is not None:
         processed_df = process_data(workouts_file, bodyweights_file)
