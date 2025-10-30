@@ -192,8 +192,9 @@ def main():
             forecasted_e1rm = model.predict(forecast_day_range)
             forecasted_dates = pd.date_range(start=end_date + pd.Timedelta(days=1), periods=90, freq='D')  # starts on day after last recorded value and generates 90 dates that step day by day
             
-            # add forecasted data to existing chart
+            # add forecasted data to existing chart and show chart
             e1rm_chart.add_scatter(x=forecasted_dates, y=forecasted_e1rm, mode="lines", name = "Forecasted Data")
+            st.plotly_chart(e1rm_chart)
 
 if __name__ == "__main__":
     main()
