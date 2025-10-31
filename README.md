@@ -8,7 +8,7 @@ An interactive web application built with Streamlit, Pandas, and Scikit-learn. T
 
 **[View the Live App Here](https://fitnessdatavisualizer.streamlit.app/)**
 
-![Fitness Data Visualizer Screenshot](screenshots/bodyweight_changes.png)
+![Fitness Data Visualizer Screenshot](screenshots/app_screenshot.png)
 
 ---
 
@@ -25,6 +25,8 @@ An interactive web application built with Streamlit, Pandas, and Scikit-learn. T
 
 A large part of this project was using my own data and statistics in the analysis. I began recording my bodyweight consistently before I was diagnosed with cancer, and continued recording throughout and after treatment. In my analysis, I was able to see these three phases distinctly (as shown below) and also view my personal strength changes over time. 
 
+![Cancer Phase Bodyweight Change](screenshots/bodyweight_changes.png)
+
 ---
 
 ## Tech Stack
@@ -34,4 +36,3 @@ A large part of this project was using my own data and statistics in the analysi
 * **Data Science & ML:** Pandas, NumPy, Scikit-learn
 * **Data Visualization:** Plotly Express
 * **Prototyping:** Jupyter Notebooks
-* **Version Control:** Git & GitHub
