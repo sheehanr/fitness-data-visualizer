@@ -8,7 +8,7 @@ An interactive web application built with Streamlit, Pandas, and Scikit-learn. T
 
 **[View the Live App Here](https://fitnessdatavisualizer.streamlit.app/)**
 
-![Fitness Data Visualizer Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![Fitness Data Visualizer Screenshot](screenshots/bodyweight_changes.png)
 
 ---
 
