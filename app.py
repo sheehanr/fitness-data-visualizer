@@ -144,8 +144,8 @@ def visualize_e1rm(daily_max_e1rm_df):
 
 def main():
     st.title("Fitness Data Visualizer")
-    workouts_file = st.file_uploader("Upload workout data (.CSV)", 'csv')
-    bodyweights_file = st.file_uploader("Upload bodyweight data (.CSV)", 'csv')
+    workouts_file = st.file_uploader("Upload workout data (.CSV exported from Hevy)", 'csv')
+    bodyweights_file = st.file_uploader("Upload bodyweight data (.CSV exported from Hevy)", 'csv')
 
     if workouts_file is not None and bodyweights_file is not None:
         processed_df = process_data(workouts_file, bodyweights_file)
