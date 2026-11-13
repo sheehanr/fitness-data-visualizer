@@ -36,3 +36,16 @@ A large part of this project was using my own data and statistics in the analysi
 * **Data Science & ML:** Pandas, NumPy, Scikit-learn
 * **Data Visualization:** Plotly Express
 * **Prototyping:** Jupyter Notebooks
+
+---
+
+## Local Setup
+
+```bash
+git clone https://github.com/sheehanr/fitness-data-visualizer.git
+cd fitness-data-visualizer
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Export your workout and measurement data from Hevy (Settings → Export Data) as CSVs and upload both in the app. To try it without your own data, upload the sample files in `data/raw/`.
