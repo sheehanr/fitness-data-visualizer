@@ -2,11 +2,11 @@
 
 An interactive web application built with Streamlit, Pandas, and Scikit-learn. This tool turns raw, personal fitness CSVs (from the [Hevy](https://www.hevyapp.com) app) into an interactive data visualization dashboard including a forecast of where your fitness statistics will end up based on your existing data.
 
+[fitnessdatavisualizer.streamlit.app](https://fitnessdatavisualizer.streamlit.app)
+
 ---
 
-## Link and Screenshots
-
-**[View the Live App Here](https://fitnessdatavisualizer.streamlit.app/)**
+## Demo
 
 ![Fitness Data Visualizer Screenshot](screenshots/app_screenshot.png)
 
